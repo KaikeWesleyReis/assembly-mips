@@ -4,6 +4,8 @@
 ## Descrição
 Este repositório possui o intuito de aumentar o conteúdo referente a programação em **Assembly** utilizando a arquitetura MIPS na comunidade brasileira, deficiente em conteúdos bem comentados e em sua língua nativa (português).
 
+Caso queira contribuir para este repositório, basta fazer um **Pull Request** de seus códigos, mantendo o formato estabelecido.
+
 ## Como funciona?
 Os códigos criados em **Assembly** são traduções de programas de linguagens de alto nível como o **C** . Na pasta *codigos_fonte_c* estão presente todos os códigos que foram utilizados como base e na pasta *codigos_assembly_mips* estão suas respectivas traduções.
 
