@@ -1,22 +1,20 @@
 #include <stdio.h>
 
-float soma(float a, float b) {
-  return ((a+b)*1.34);
+//OBJETIVO - CHAMAR FUNCAO. CALCULAR SOMA. RETORNAR
+
+int soma(int x, int y) {
+   return (x+y);
 }
 
+// Funcao soma
 int main() {
-  float x, y;
-  float res;
+   int num1, num2, resultado;
 
-  printf("Informe o primeiro numero: ");
-  scanf("%f", &x);
-  printf("Informe o segundo numero: ");
-  scanf("%f", &y);
-  res = soma(x,y);
-  if (res > 6.5)
-     printf("Soma: %.2f\n", res);
-  else
-    printf("Resultado descartado!\n");
-  getch();
-  return 0;
+   printf("Informe numero 1: ");
+   scanf("%d", &num1);
+   printf("Informe numero 2: ");
+   scanf("%d", &num2);
+   resultado = soma(num1,num2);
+   printf("Resultado: %d\n", resultado);
+   return 0;
 }

@@ -1,4 +1,3 @@
-# ALUNOS - KAIKE WESLEY REIS & PHILIPE QUADROS
 # CÓDIGO C - calculo_raio.c
 
 # Declaracao de dados
