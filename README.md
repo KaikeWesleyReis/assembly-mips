@@ -10,7 +10,7 @@ Os códigos criados em **Assembly** são traduções de programas de linguagens 
 **OBS**: O nome de um programa fonte em C será o mesmo de sua tradução em Assembly.
 
 ## Plataformas 
-As plataformas para desenvolver os códigos em C e Assembly foram respectivamente:
+As plataformas para desenvolver os códigos em Assembly e C foram respectivamente:
 
 ![mips](https://user-images.githubusercontent.com/32513366/66224732-03438c80-e6ad-11e9-89f7-340ce94f43a1.png)
 
